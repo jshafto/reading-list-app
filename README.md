@@ -19,7 +19,7 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Query and dummy render book list
 - Create routes and views for CRUD operations
     - [x] Create "Book List" page
-    - [ ] Add "Add Book" page
-    - [ ] Server-side validation
+    - [x] Add "Add Book" page
+    - [x] Server-side validation
     - [ ] Add "Edit Book" page
     - [ ] Add "Delete Book" page

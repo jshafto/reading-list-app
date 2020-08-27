@@ -1,13 +1,15 @@
 const express = require('express');
 const morgan = require('morgan');
+const cookieParser = require('cookie-parser');
+
 const routes = require('./routes');
 
 const app = express();
 
 app.set('view engine', 'pug');
-
-// morgan has to come before devs, apparentky
 app.use(morgan('dev'));
+app.use(cookieParser());
+app.use(express.urlencoded({ extended: false }));
 app.use(routes);
 
 // Catch unhandled requests and forward to error handler.
@@ -49,7 +51,5 @@ app.use((err, req, res, next) => {
       stack: isProduction ? null : err.stack,
     });
   });
-
-  module.exports = app;
 
 module.exports = app;

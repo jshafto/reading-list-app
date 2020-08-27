@@ -5,7 +5,7 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
 
 ## Project Status
 - Project setup:
-    - [ ] Setup & application stub
+    - [x] Setup & application stub
     - [ ] Separate application and server modules
     - [ ] Log requests using `morgan`
     - [ ] Add custom error handlers

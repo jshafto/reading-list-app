@@ -1,0 +1,28 @@
+{
+  "name": "reading-list-proj",
+  "version": "1.0.0",
+  "description": "Completed as part of the App Academy curriculum. Implementation by Matt Zamora and Juliet Shafto.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshafto/reading-list-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshafto/reading-list-app/issues"
+  },
+  "homepage": "https://github.com/jshafto/reading-list-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

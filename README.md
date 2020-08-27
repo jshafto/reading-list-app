@@ -12,7 +12,7 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Configure environment variables
     - [x] Bootstrap setup
 - Sequelize + Express integration:
-    - [ ] Install and configure sequelize
+    - [x] Install and configure sequelize
     - [ ] Database connection
     - [ ] Create book model
     - [ ] Seeding database

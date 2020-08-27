@@ -6,9 +6,9 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
 ## Project Status
 - Project setup:
     - [x] Setup & application stub
-    - [ ] Separate application and server modules
-    - [ ] Log requests using `morgan`
-    - [ ] Add custom error handlers
+    - [x] Separate application and server modules
+    - [x] Log requests using `morgan`
+    - [x] Add custom error handlers
     - [ ] Configure environment variables
     - [ ] Bootstrap setup
 - Sequelize + Express integration:

@@ -21,5 +21,5 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Create "Book List" page
     - [x] Add "Add Book" page
     - [x] Server-side validation
-    - [ ] Add "Edit Book" page
+    - [x] Add "Edit Book" page
     - [ ] Add "Delete Book" page

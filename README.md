@@ -15,6 +15,11 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Install and configure sequelize
     - [x] Database connection
     - [x] Create book model
-    - [ ] Seeding database
-    - [ ] Query and dummy render book list
+    - [x] Seeding database
+    - [x] Query and dummy render book list
 - Create routes and views for CRUD operations
+    - [x] Create "Book List" page
+    - [ ] Add "Add Book" page
+    - [ ] Server-side validation
+    - [ ] Add "Edit Book" page
+    - [ ] Add "Delete Book" page

@@ -13,7 +13,7 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Bootstrap setup
 - Sequelize + Express integration:
     - [x] Install and configure sequelize
-    - [ ] Database connection
+    - [x] Database connection
     - [ ] Create book model
     - [ ] Seeding database
     - [ ] Query and dummy render book list

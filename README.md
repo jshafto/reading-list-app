@@ -14,7 +14,7 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
 - Sequelize + Express integration:
     - [x] Install and configure sequelize
     - [x] Database connection
-    - [ ] Create book model
+    - [x] Create book model
     - [ ] Seeding database
     - [ ] Query and dummy render book list
 - Create routes and views for CRUD operations

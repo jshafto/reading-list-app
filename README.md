@@ -22,4 +22,4 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Add "Add Book" page
     - [x] Server-side validation
     - [x] Add "Edit Book" page
-    - [ ] Add "Delete Book" page
+    - [x] Add "Delete Book" page

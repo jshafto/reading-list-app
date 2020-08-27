@@ -9,8 +9,8 @@ Completed as part of the App Academy curriculum. Implementation by Matt Zamora a
     - [x] Separate application and server modules
     - [x] Log requests using `morgan`
     - [x] Add custom error handlers
-    - [ ] Configure environment variables
-    - [ ] Bootstrap setup
+    - [x] Configure environment variables
+    - [x] Bootstrap setup
 - Sequelize + Express integration:
     - [ ] Install and configure sequelize
     - [ ] Database connection
